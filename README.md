@@ -28,7 +28,6 @@ Eaglercraft is real Minecraft 1.5.2 that you can play in any regular web browser
 
 ### Offline Client Download: [Offline_Download_Version.html](https://drive.google.com/file/d/1eowto1Sw5UJWPOuQcxFUh1uNsSrCw-t_/view?usp=sharing)
 
-**(right click the link and press 'Save link as...' to download the file)**
 
 ### Play Minecraft Beta Singleplayer: [https://g.deev.is/eaglercraft/beta/](https://g.deev.is/eaglercraft/beta/)
 
